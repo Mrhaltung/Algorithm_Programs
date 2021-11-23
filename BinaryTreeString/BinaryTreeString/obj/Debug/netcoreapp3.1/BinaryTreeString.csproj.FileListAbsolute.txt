@@ -1,0 +1,14 @@
+D:\Program\BinaryTreeString\BinaryTreeString\bin\Debug\netcoreapp3.1\BinaryTreeString.exe
+D:\Program\BinaryTreeString\BinaryTreeString\bin\Debug\netcoreapp3.1\BinaryTreeString.deps.json
+D:\Program\BinaryTreeString\BinaryTreeString\bin\Debug\netcoreapp3.1\BinaryTreeString.runtimeconfig.json
+D:\Program\BinaryTreeString\BinaryTreeString\bin\Debug\netcoreapp3.1\BinaryTreeString.runtimeconfig.dev.json
+D:\Program\BinaryTreeString\BinaryTreeString\bin\Debug\netcoreapp3.1\BinaryTreeString.dll
+D:\Program\BinaryTreeString\BinaryTreeString\bin\Debug\netcoreapp3.1\BinaryTreeString.pdb
+D:\Program\BinaryTreeString\BinaryTreeString\obj\Debug\netcoreapp3.1\BinaryTreeString.csproj.AssemblyReference.cache
+D:\Program\BinaryTreeString\BinaryTreeString\obj\Debug\netcoreapp3.1\BinaryTreeString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\BinaryTreeString\BinaryTreeString\obj\Debug\netcoreapp3.1\BinaryTreeString.AssemblyInfoInputs.cache
+D:\Program\BinaryTreeString\BinaryTreeString\obj\Debug\netcoreapp3.1\BinaryTreeString.AssemblyInfo.cs
+D:\Program\BinaryTreeString\BinaryTreeString\obj\Debug\netcoreapp3.1\BinaryTreeString.csproj.CoreCompileInputs.cache
+D:\Program\BinaryTreeString\BinaryTreeString\obj\Debug\netcoreapp3.1\BinaryTreeString.dll
+D:\Program\BinaryTreeString\BinaryTreeString\obj\Debug\netcoreapp3.1\BinaryTreeString.pdb
+D:\Program\BinaryTreeString\BinaryTreeString\obj\Debug\netcoreapp3.1\BinaryTreeString.genruntimeconfig.cache
