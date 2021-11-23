@@ -1,0 +1,14 @@
+D:\Program\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.exe
+D:\Program\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.deps.json
+D:\Program\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.json
+D:\Program\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.dev.json
+D:\Program\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.dll
+D:\Program\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.pdb
+D:\Program\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.csproj.AssemblyReference.cache
+D:\Program\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfoInputs.cache
+D:\Program\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfo.cs
+D:\Program\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.csproj.CoreCompileInputs.cache
+D:\Program\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.dll
+D:\Program\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.pdb
+D:\Program\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.genruntimeconfig.cache
