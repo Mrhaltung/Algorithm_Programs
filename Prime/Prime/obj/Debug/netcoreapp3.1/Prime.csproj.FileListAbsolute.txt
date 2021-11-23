@@ -1,0 +1,14 @@
+D:\Program\Prime\Prime\bin\Debug\netcoreapp3.1\Prime.exe
+D:\Program\Prime\Prime\bin\Debug\netcoreapp3.1\Prime.deps.json
+D:\Program\Prime\Prime\bin\Debug\netcoreapp3.1\Prime.runtimeconfig.json
+D:\Program\Prime\Prime\bin\Debug\netcoreapp3.1\Prime.runtimeconfig.dev.json
+D:\Program\Prime\Prime\bin\Debug\netcoreapp3.1\Prime.dll
+D:\Program\Prime\Prime\bin\Debug\netcoreapp3.1\Prime.pdb
+D:\Program\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.csproj.AssemblyReference.cache
+D:\Program\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.AssemblyInfoInputs.cache
+D:\Program\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.AssemblyInfo.cs
+D:\Program\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.csproj.CoreCompileInputs.cache
+D:\Program\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.dll
+D:\Program\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.pdb
+D:\Program\Prime\Prime\obj\Debug\netcoreapp3.1\Prime.genruntimeconfig.cache
